@@ -1,0 +1,4395 @@
+<?xml version="1.0"?>
+<handball>
+  <facility>
+    <Prop_ID>X174</Prop_ID>
+    <Name>174 St. Playground</Name>
+    <Location>E. 174 and Bronx River Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X126</Prop_ID>
+    <Name>Abigail Playground</Name>
+    <Location>Tinton Avenue, E. 156 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X169</Prop_ID>
+    <Name>Agnes Haywood Playground</Name>
+    <Location>E. 215 St., Barnes Ave., E. 216 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8804</lat>
+    <lon>-73.8621</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X172</Prop_ID>
+    <Name>Allerton Playground</Name>
+    <Location>Allerton, Bouck, Throop Aves. &amp; Stedman Place</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8659</lat>
+    <lon>-73.8506</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X001</Prop_ID>
+    <Name>Aqueduct Walk</Name>
+    <Location>Fordham Road and Aqueduct Walk</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X219</Prop_ID>
+    <Name>Arcilla Playground</Name>
+    <Location>Clay, Park, and Teller Aves., E. 164 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.827</lat>
+    <lon>-73.9148</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X150J</Prop_ID>
+    <Name>Bailey Playground</Name>
+    <Location>Bailey Avenue &amp; 234 St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8818</lat>
+    <lon>-73.9002</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X166</Prop_ID>
+    <Name>Behagen Playground</Name>
+    <Location>165-166 Sts., Union Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8258</lat>
+    <lon>-73.9008</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X108</Prop_ID>
+    <Name>Belmont Playground</Name>
+    <Location>E. 181 &amp; E. 182 Sts., Crotona &amp; Belmont Aves.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8504</lat>
+    <lon>-73.8874</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X002</Prop_ID>
+    <Name>Brady Playground</Name>
+    <Location>Bronxdale Blvd. &amp; Bronx Park East</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8519</lat>
+    <lon>-73.8694</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X183</Prop_ID>
+    <Name>Bruckner Playground</Name>
+    <Location>Phillips &amp; Cross Bronx Expressway</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8267</lat>
+    <lon>-73.829</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X121</Prop_ID>
+    <Name>Bufano Playground</Name>
+    <Location>Waterbury &amp; LaSalle Aves.</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8385</lat>
+    <lon>-73.8315</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X232</Prop_ID>
+    <Name>Burns Playground</Name>
+    <Location>Mace, Lodovick, &amp; Gunther Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.863</lat>
+    <lon>-73.8364</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X187</Prop_ID>
+    <Name>Campanaro Playground</Name>
+    <Location>Gun Hill &amp; Eastchester Rds., Arnow Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8678</lat>
+    <lon>-73.843</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X194</Prop_ID>
+    <Name>Captain Rivera Playground</Name>
+    <Location>Forest Ave., E. 156 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8178</lat>
+    <lon>-73.9067</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X160</Prop_ID>
+    <Name>Caserta Playground</Name>
+    <Location>St. Raymond Ave. &amp; Purdy St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8372</lat>
+    <lon>-73.8538</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X102</Prop_ID>
+    <Name>Ciccarone Park</Name>
+    <Location>Arthur Avenue, E. 188 St., Hughes Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.856</lat>
+    <lon>-73.887</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X008</Prop_ID>
+    <Name>Claremont Park</Name>
+    <Location>Clay Avenue and Claremont Parkway South</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X008</Prop_ID>
+    <Name>Claremont Playground South</Name>
+    <Location>E. 170 St. &amp; Teller Ave</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X200</Prop_ID>
+    <Name>Clark Playground</Name>
+    <Location>3rd Ave, E. 144 to 145 Sts.</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat>40.8137</lat>
+    <lon>-73.9214</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X122</Prop_ID>
+    <Name>Colucci Playground</Name>
+    <Location>Mayflower &amp; Wilkinson Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8524</lat>
+    <lon>-73.8343</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X010</Prop_ID>
+    <Name>Crotona Playground #11</Name>
+    <Location>Fulton Avenue, 171 St.., Crotona Park</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X010</Prop_ID>
+    <Name>Crotona Playground #7</Name>
+    <Location>Charlotte St., Crotona Park E.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X010</Prop_ID>
+    <Name>Crotona Tennis Courts</Name>
+    <Location>Crotona Ave., Adjacent to Tennis Courts</Location>
+    <Num_of_Courts>24</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X021</Prop_ID>
+    <Name>Drew Playground</Name>
+    <Location>Fulton Ave., E. 169 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8333</lat>
+    <lon>-73.9033</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X185</Prop_ID>
+    <Name>Dunbar Playground</Name>
+    <Location>E. 161 St., Trinity Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8233</lat>
+    <lon>-73.9063</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X156</Prop_ID>
+    <Name>Eastchester Playground</Name>
+    <Location>Adee &amp; Tenbroeck Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8697</lat>
+    <lon>-73.853</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X165</Prop_ID>
+    <Name>Edenwald Playground</Name>
+    <Location>Schieffelin Ave. &amp; E. 229 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8838</lat>
+    <lon>-73.8457</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X146</Prop_ID>
+    <Name>Flynn Playground</Name>
+    <Location>E. 157 St., 3rd Ave., E. 158 St., Brook Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8209</lat>
+    <lon>-73.9123</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X150E</Prop_ID>
+    <Name>Fordham Landing</Name>
+    <Location>Fordham Road and Major Deegan</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8635</lat>
+    <lon>-73.9101</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X020</Prop_ID>
+    <Name>Fort Independence Playground</Name>
+    <Location>Sedgwick &amp; Stevenson Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.882</lat>
+    <lon>-73.8946</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X233</Prop_ID>
+    <Name>Fountain of Youth Playground</Name>
+    <Location>Union Ave., E. 150 St., Tinton Ave. and E. 152 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.814</lat>
+    <lon>-73.9054</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X247</Prop_ID>
+    <Name>Fox Playground</Name>
+    <Location>S/E Corner of Fox St. and E. 156 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X106</Prop_ID>
+    <Name>Garrison Playground</Name>
+    <Location>E. 146 St., Walton Ave., Grand Concourse</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X114</Prop_ID>
+    <Name>Goble Playground</Name>
+    <Location>Goble Rd. &amp; Inwood Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8437</lat>
+    <lon>-73.9169</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X222</Prop_ID>
+    <Name>Gouverneur Playground</Name>
+    <Location>3rd Ave., St. Paul's Pl., Washington Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8353</lat>
+    <lon>-73.9037</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X235</Prop_ID>
+    <Name>Grovehill Playground</Name>
+    <Location>E. 158 St., Eagle Avenue, Cauldwell Ave, E. 156 St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8197</lat>
+    <lon>-73.9091</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X196</Prop_ID>
+    <Name>Haffen Park</Name>
+    <Location>Hammersly, Ely, Burke, &amp; Gunther Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X080</Prop_ID>
+    <Name>Henry Hudson Park</Name>
+    <Location>Palisade Avenue &amp; Kappock Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8813</lat>
+    <lon>-73.921</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X010</Prop_ID>
+    <Name>Hill &amp; Dale Playground</Name>
+    <Location>173 St., Crotona Park East</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X241</Prop_ID>
+    <Name>Hoe Avenue Garden</Name>
+    <Location>E/S Hoe Ave., S/O Aldus Street</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X113</Prop_ID>
+    <Name>Hunt's Point Playground</Name>
+    <Location>Hunt's Point &amp; Spofford Aves., Faile Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8141</lat>
+    <lon>-73.8857</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X148C7</Prop_ID>
+    <Name>Jerome Park South</Name>
+    <Location>Cross Bx. Expwy., W. 174 St., Jerome Ave.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X017</Prop_ID>
+    <Name>Julius Richman Park (lower)</Name>
+    <Location>E. Tremont, E. Burnside, and Valentine Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8493</lat>
+    <lon>-73.9012</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X163</Prop_ID>
+    <Name>Loreto Playground</Name>
+    <Location>Morris Park, Tomlinson, Van Nest &amp; Haight Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8487</lat>
+    <lon>-73.8517</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X131</Prop_ID>
+    <Name>Lozada Playground</Name>
+    <Location>E. 135 St., Alexander &amp; Willis Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.808</lat>
+    <lon>-73.9246</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X030</Prop_ID>
+    <Name>Macombs Dam Park</Name>
+    <Location>Ruppert Pl. &amp; W. 161 St.</Location>
+    <Num_of_Courts>24</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X214</Prop_ID>
+    <Name>Magenta Playground</Name>
+    <Location>Rosewood &amp; Magenta Sts., Olinville Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8738</lat>
+    <lon>-73.8677</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X178</Prop_ID>
+    <Name>Matthews-Muliner Playground</Name>
+    <Location>Morris Park, Matthews, &amp; Muliner Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8467</lat>
+    <lon>-73.8617</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X157</Prop_ID>
+    <Name>Mazzei Playground</Name>
+    <Location>Williamsbridge Rd &amp; Mace Ave.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8621</lat>
+    <lon>-73.8588</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X154</Prop_ID>
+    <Name>Melrose Playground</Name>
+    <Location>Courtlandt Ave., 154 and 155 streets, Morris Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8207</lat>
+    <lon>-73.9186</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X153</Prop_ID>
+    <Name>Merriam Playground South</Name>
+    <Location>Merriam Ave., Odgen Ave., W. 168. St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.839</lat>
+    <lon>-73.9263</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X182</Prop_ID>
+    <Name>Millbrook Playground</Name>
+    <Location>N/S E 135 St betw St Anns &amp; Cypress</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8042</lat>
+    <lon>-73.9168</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X206</Prop_ID>
+    <Name>Morgan Playground</Name>
+    <Location>E. 168 St., Washington Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8326</lat>
+    <lon>-73.9071</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X115</Prop_ID>
+    <Name>Mott Playground</Name>
+    <Location>Morris &amp; College Aves., W. 166 St. to W. 167 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8313</lat>
+    <lon>-73.9145</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X034</Prop_ID>
+    <Name>Mullaly Park</Name>
+    <Location>W. 164 St. &amp; River Ave.</Location>
+    <Num_of_Courts>18</Num_of_Courts>
+    <lat>40.8305</lat>
+    <lon>-73.9248</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X168</Prop_ID>
+    <Name>Nelson Playground</Name>
+    <Location>W. 166 St., Nelson Ave., Woodycrest Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8349</lat>
+    <lon>-73.9271</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X039</Prop_ID>
+    <Name>Orchard Beach Playground</Name>
+    <Location>Orchard Beach Area 6</Location>
+    <Num_of_Courts>24</Num_of_Courts>
+    <lat>40.8689</lat>
+    <lon>-73.7926</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X151</Prop_ID>
+    <Name>P.O. Serrano Playground</Name>
+    <Location>Lafayette &amp; Olmstead Aves</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8235</lat>
+    <lon>-73.85</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X177</Prop_ID>
+    <Name>Parker Playground</Name>
+    <Location>Castle Hill &amp; Parker Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8388</lat>
+    <lon>-73.8532</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X162</Prop_ID>
+    <Name>Parkside Playground</Name>
+    <Location>Arnow &amp; Olinville Aves.</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.8682</lat>
+    <lon>-73.8679</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X155</Prop_ID>
+    <Name>Patterson Playground</Name>
+    <Location>Morris Avenue, E. 148 St., College Ave., E. 145 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8161</lat>
+    <lon>-73.9219</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X103</Prop_ID>
+    <Name>People's Park</Name>
+    <Location>Brook Avenue, St. Ann's Avenue, East 141 St.</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X179</Prop_ID>
+    <Name>Playground 52</Name>
+    <Location>Kelly, Beck &amp; Ave. St. John</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8153</lat>
+    <lon>-73.9018</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X138</Prop_ID>
+    <Name>Playground One Thirty Four CXXXIV</Name>
+    <Location>Bruckner Blvd., Cypress Ave., E. 133 &amp; E. 134 Sts.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8026</lat>
+    <lon>-73.917</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X207</Prop_ID>
+    <Name>Pontiac Playground</Name>
+    <Location>E. 149 St., Concord Ave, Jackson Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8144</lat>
+    <lon>-73.9079</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X148H1</Prop_ID>
+    <Name>Prospect Playground</Name>
+    <Location>Clinton Ave., E. 176 St., Prospect Ave.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8433</lat>
+    <lon>-73.8911</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X041</Prop_ID>
+    <Name>Pulaski Park</Name>
+    <Location>Willis Ave., Bruckner Blvd., E. 132 St., Willis Ave. Br.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8054</lat>
+    <lon>-73.9245</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X203</Prop_ID>
+    <Name>Randall Playground</Name>
+    <Location>Randall &amp; Olmstead Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8196</lat>
+    <lon>-73.8494</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X116</Prop_ID>
+    <Name>Reverend Polite Playground</Name>
+    <Location>Rev. Polite Avenue &amp; E. 167 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8274</lat>
+    <lon>-73.8964</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X141</Prop_ID>
+    <Name>Rienzi Playground</Name>
+    <Location>White Plains Rd., E. 226 St., Barnes Ave., E. 225 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8878</lat>
+    <lon>-73.8584</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X175</Prop_ID>
+    <Name>Riverbend Playground</Name>
+    <Location>Bailey Avenue</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat>40.8719</lat>
+    <lon>-73.9058</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X186</Prop_ID>
+    <Name>Riverdale Playground</Name>
+    <Location>Independence Avenue &amp; 237 St.</Location>
+    <Num_of_Courts>5</Num_of_Courts>
+    <lat>40.8881</lat>
+    <lon>-73.9153</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X238</Prop_ID>
+    <Name>Sawmill Playground</Name>
+    <Location>E. 139 St. &amp; E. 140 Sts., Brook &amp; Willis Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8087</lat>
+    <lon>-73.9195</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X158</Prop_ID>
+    <Name>Sedgwick Playground</Name>
+    <Location>Undercliff Ave. &amp; Cross Bronx Expwy.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8456</lat>
+    <lon>-73.923</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X085</Prop_ID>
+    <Name>Slattery Playground</Name>
+    <Location>Ryer and Valentine Aves. &amp; E. 183 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8575</lat>
+    <lon>-73.8985</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X118</Prop_ID>
+    <Name>Soundview Playground</Name>
+    <Location>Metcalf and Seward Aves.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X221</Prop_ID>
+    <Name>Space-Time Playground</Name>
+    <Location>Lafayette &amp; Bolton Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8223</lat>
+    <lon>-73.8596</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X044</Prop_ID>
+    <Name>St. James Park</Name>
+    <Location>Jerome Avenue and 193 St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8657</lat>
+    <lon>-73.8969</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X045</Prop_ID>
+    <Name>St. Mary's East</Name>
+    <Location>Jackson Ave, St Mary's St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8105</lat>
+    <lon>-73.9103</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X147</Prop_ID>
+    <Name>Starlight Ballfields</Name>
+    <Location>Sheridan Expwy. &amp; E. 174 St.</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X193</Prop_ID>
+    <Name>Stars &amp; Stripes Playground</Name>
+    <Location>Crawford Ave., Baychester Rd.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8854</lat>
+    <lon>-73.8402</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X211</Prop_ID>
+    <Name>Stebbins Playground</Name>
+    <Location>E. 165 St., Stebbins Ave., Roger Pl.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8226</lat>
+    <lon>-73.8987</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X204</Prop_ID>
+    <Name>Story Playground</Name>
+    <Location>Story &amp; Theriot Aves.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8231</lat>
+    <lon>-73.8627</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X176</Prop_ID>
+    <Name>Taylor Playground</Name>
+    <Location>Theriot &amp; Guerlain Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8392</lat>
+    <lon>-73.8659</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X170</Prop_ID>
+    <Name>The Pearly Gates</Name>
+    <Location>St. Peter's &amp; Tratman Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8389</lat>
+    <lon>-73.8456</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X190</Prop_ID>
+    <Name>Tiffany Playground</Name>
+    <Location>Fox St., E. 167 St., Tiffany St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8249</lat>
+    <lon>-73.8941</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X010A</Prop_ID>
+    <Name>Tremont Park</Name>
+    <Location>Arthur Ave., Cross Bx. Expwy., Tremont Ave. &amp; 3rd</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8447</lat>
+    <lon>-73.8944</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X092</Prop_ID>
+    <Name>Van Cortlandt Classic Playground</Name>
+    <Location>VC Park South and Orloff Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X092</Prop_ID>
+    <Name>Van Cortlandt Stadium</Name>
+    <Location>242 St. &amp; Broadway</Location>
+    <Num_of_Courts>9</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X092</Prop_ID>
+    <Name>Van Cortlandt Woodlawn</Name>
+    <Location>East 239th Street&amp; VC Park East</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X124</Prop_ID>
+    <Name>Watson-Gleason Playground</Name>
+    <Location>Watson and Rosedale Aves.</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8276</lat>
+    <lon>-73.869</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X174</Prop_ID>
+    <Name>Webster Playground</Name>
+    <Location>188 St., Webster &amp; Park Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>X217</Prop_ID>
+    <Name>Willis Playground</Name>
+    <Location>E. 139 St., E. 140 St., Willis &amp; Alexander Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8108</lat>
+    <lon>-73.9237</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X087</Prop_ID>
+    <Name>Zimmerman Playground</Name>
+    <Location>Barker Ave., Britton St., &amp; Olinville Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B342</Prop_ID>
+    <Name>100% Playground/PS 242 (100th Street)</Name>
+    <Location>Glenwood Rd &amp; 100th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6466</lat>
+    <lon>-73.8989</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B137</Prop_ID>
+    <Name>16 Sycamore Playground</Name>
+    <Location>Schermerhorn &amp; Nevins Sts</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.6867</lat>
+    <lon>-73.9806</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B329</Prop_ID>
+    <Name>Alex Lindower Park</Name>
+    <Location>Mill Ave &amp; Strickland Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6128</lat>
+    <lon>-73.9119</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B193</Prop_ID>
+    <Name>Alexander Hamilton-Metz Field</Name>
+    <Location>Albany &amp; East NY Aves</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6624</lat>
+    <lon>-73.9402</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B001</Prop_ID>
+    <Name>American Playground</Name>
+    <Location>Noble/Franklin &amp; Milton Streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7288</lat>
+    <lon>-73.9582</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B080</Prop_ID>
+    <Name>Asser Levey Park (Sea Side, W 5th)</Name>
+    <Location>Surf Ave &amp; 5th Street</Location>
+    <Num_of_Courts>10</Num_of_Courts>
+    <lat>40.5743</lat>
+    <lon>-73.9727</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B286</Prop_ID>
+    <Name>Bartlett Playground</Name>
+    <Location>Bartlett &amp; Throop Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7012</lat>
+    <lon>-73.946</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B164</Prop_ID>
+    <Name>Bath Beach Park</Name>
+    <Location>Shore Pkwy &amp; 17th Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6024</lat>
+    <lon>-74.0103</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B349</Prop_ID>
+    <Name>Bath Playground</Name>
+    <Location>Bath Ave &amp; 24th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5948</lat>
+    <lon>-73.9931</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B142</Prop_ID>
+    <Name>Bedford Playground</Name>
+    <Location>Bedford Ave &amp; S 9th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B283</Prop_ID>
+    <Name>Belmont Playground</Name>
+    <Location>Belmont Ave &amp; Drew St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6756</lat>
+    <lon>-73.8626</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B277</Prop_ID>
+    <Name>Benson Playground</Name>
+    <Location>Bath Ave &amp; Bat 22nd</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6024</lat>
+    <lon>-74.0021</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B007</Prop_ID>
+    <Name>Bensonhurst Park</Name>
+    <Location>Bay Parkway &amp; Cropsey Ave</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.598</lat>
+    <lon>-74.0012</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B008</Prop_ID>
+    <Name>Betsy Head Memorial Playground</Name>
+    <Location>Mother Gaston &amp; Livonia</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B008</Prop_ID>
+    <Name>BETSY HEAD PARK</Name>
+    <Location>Mother Gaston Blvd&amp; Livonia Ave</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B109</Prop_ID>
+    <Name>Bill Brown Playground</Name>
+    <Location>Bedford Ave &amp; Ave X</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.593</lat>
+    <lon>-73.9457</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B258</Prop_ID>
+    <Name>BREVOORT HOUSES PLGD.</Name>
+    <Location>Ralph Ave &amp; Chauncy St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.68</lat>
+    <lon>-73.9225</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B223J03</Prop_ID>
+    <Name>Bridge Park 3</Name>
+    <Location>3 Prospect &amp; Sands St</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B012</Prop_ID>
+    <Name>BROWER PARK &amp; PS 289 PLGD.</Name>
+    <Location>Brooklyn &amp; Kingston Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6741</lat>
+    <lon>-73.9434</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B270</Prop_ID>
+    <Name>BROWNSVILLE PLGD.</Name>
+    <Location>Linden Bkvd. &amp; Hegeman St.</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6569</lat>
+    <lon>-73.9022</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B017</Prop_ID>
+    <Name>Bushwick Playground</Name>
+    <Location>Knickerbocker Ave &amp; Putnam St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6963</lat>
+    <lon>-73.9121</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B310</Prop_ID>
+    <Name>Bushwick Playground and Pool</Name>
+    <Location>Bushwick &amp; Flushing Aves</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7016</lat>
+    <lon>-73.9396</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B219</Prop_ID>
+    <Name>CALLAHAN &amp; KELLY PLGD.</Name>
+    <Location>Eastern Pkwy &amp; Truxon St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6786</lat>
+    <lon>-73.9042</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B347</Prop_ID>
+    <Name>Carver Playground</Name>
+    <Location>Carver Ralph Ave &amp; SumpterSt.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6802</lat>
+    <lon>-73.9202</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B337</Prop_ID>
+    <Name>Century</Name>
+    <Location>Brighton Ave &amp; west 2nd</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5768</lat>
+    <lon>-73.9711</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B302</Prop_ID>
+    <Name>CHARLIES PLACE</Name>
+    <Location>Hopkins &amp; Throop Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6989</lat>
+    <lon>-73.9463</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B141</Prop_ID>
+    <Name>Cityline Park</Name>
+    <Location>Atlantic &amp; Fountain Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6795</lat>
+    <lon>-73.8748</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B223N01</Prop_ID>
+    <Name>Classon Playground</Name>
+    <Location>Classon &amp; Kent Avenues</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B077</Prop_ID>
+    <Name>COFFEY PARK</Name>
+    <Location>King, Richard &amp; Dwight Sts</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6771</lat>
+    <lon>-74.0092</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B128</Prop_ID>
+    <Name>Col Marcus Park</Name>
+    <Location>Ocean Pkwy &amp; Ave P</Location>
+    <Num_of_Courts>5</Num_of_Courts>
+    <lat>40.6096</lat>
+    <lon>-73.9703</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B021</Prop_ID>
+    <Name>Comm Barry Park</Name>
+    <Location>Flushing Ave &amp; N. Elliot Pl</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6979</lat>
+    <lon>-73.9802</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B268</Prop_ID>
+    <Name>Coney Island Houses Playground (Nautilus Playground)</Name>
+    <Location>West 29th to West 32nd streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5717</lat>
+    <lon>-73.9971</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B025</Prop_ID>
+    <Name>Cooper Park</Name>
+    <Location>Sharon &amp;Olive Sts &amp; Maspeth &amp; Morgan Aves</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7155</lat>
+    <lon>-73.9367</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B102</Prop_ID>
+    <Name>Crispus Attucks Playground</Name>
+    <Location>Fulton St &amp; Classon Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6817</lat>
+    <lon>-73.9597</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B103</Prop_ID>
+    <Name>Cypress</Name>
+    <Location>Blake &amp; Euklid Sts</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.67</lat>
+    <lon>-73.8709</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B262</Prop_ID>
+    <Name>David Ruggles Playground</Name>
+    <Location>Thompkins Ave &amp; Halsey St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6819</lat>
+    <lon>-73.9447</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B358</Prop_ID>
+    <Name>DE HOSTOS Playground</Name>
+    <Location>Harrison Ave&amp; Lorimer Sts</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7026</lat>
+    <lon>-73.949</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B232</Prop_ID>
+    <Name>DEAN PLGD</Name>
+    <Location>Dean St &amp; 6th Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6806</lat>
+    <lon>-73.9727</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B293</Prop_ID>
+    <Name>DeKalb Playground</Name>
+    <Location>Lafayette &amp; Classon Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6899</lat>
+    <lon>-73.9605</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B316</Prop_ID>
+    <Name>Digilio Playground</Name>
+    <Location>McDonald Ave &amp; Ave F</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6327</lat>
+    <lon>-73.977</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B151</Prop_ID>
+    <Name>Dome Playground</Name>
+    <Location>Dahill Rd &amp; E 38th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6379</lat>
+    <lon>-73.9799</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B228</Prop_ID>
+    <Name>DR. GREENE PLGD. (PS 284)</Name>
+    <Location>Stone &amp; Sutter Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6674</lat>
+    <lon>-73.9071</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B125</Prop_ID>
+    <Name>Dreier-Offerman Park</Name>
+    <Location>Bay 44th &amp; Cropsey Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5875</lat>
+    <lon>-73.9909</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B028</Prop_ID>
+    <Name>DYKER BEACH PARK</Name>
+    <Location>14th Ave &amp; 86th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B028</Prop_ID>
+    <Name>DYKER BEACH PARK, BAY</Name>
+    <Location>8th Cropsey Ave &amp; Bay 8th</Location>
+    <Num_of_Courts>12</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B359</Prop_ID>
+    <Name>Eleanor Roosevelt Playground</Name>
+    <Location>E. Roosevelt Lewis &amp; Dekalb Aves</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.693</lat>
+    <lon>-73.9355</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B149A</Prop_ID>
+    <Name>Elton Playground</Name>
+    <Location>Elton &amp; Hegeman</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6658</lat>
+    <lon>-73.8806</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B405</Prop_ID>
+    <Name>Epiphany Playground</Name>
+    <Location>Berry &amp; S 9th Streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7085</lat>
+    <lon>-73.9656</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B346</Prop_ID>
+    <Name>Ericsson Playground</Name>
+    <Location>Manhattan Ave &amp; Leonard St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7206</lat>
+    <lon>-73.9484</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B345</Prop_ID>
+    <Name>Ethan Allen Playground</Name>
+    <Location>New Jersey Ave &amp; Eldert St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6558</lat>
+    <lon>-73.8873</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B332</Prop_ID>
+    <Name>Evergreen Playground</Name>
+    <Location>Evergeen Ave to Decatur St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6861</lat>
+    <lon>-73.9109</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B334</Prop_ID>
+    <Name>Fermi Playground</Name>
+    <Location>Troutman &amp; Central Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7007</lat>
+    <lon>-73.9284</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B257</Prop_ID>
+    <Name>Frost Playground</Name>
+    <Location>Frost St &amp; Morgan Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B254</Prop_ID>
+    <Name>GEORGE WINGATE HS PLGD</Name>
+    <Location>Brooklyn &amp; Kingston Aves</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6596</lat>
+    <lon>-73.9443</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B236</Prop_ID>
+    <Name>GLENWOOD HOUSES PLGD.</Name>
+    <Location>Ralph Ave &amp; Farragut Rd</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6367</lat>
+    <lon>-73.9193</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B243</Prop_ID>
+    <Name>Golconda Playground</Name>
+    <Location>Concord, Nassau, Navy &amp; Gold Sts</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6982</lat>
+    <lon>-73.9825</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B230</Prop_ID>
+    <Name>GOWANUS HOUSES PLGD.</Name>
+    <Location>Wykoff &amp; Bond Sts.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6845</lat>
+    <lon>-73.9874</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B078</Prop_ID>
+    <Name>Grace</Name>
+    <Location>Vermont St &amp; Belmont Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6712</lat>
+    <lon>-73.8948</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B275</Prop_ID>
+    <Name>Grady HS</Name>
+    <Location>Brighton 3rd st &amp; Shore Pkwy</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5824</lat>
+    <lon>-73.9649</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B042</Prop_ID>
+    <Name>Gravesend Park</Name>
+    <Location>18th Abe &amp; 56th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6234</lat>
+    <lon>-73.9852</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B301</Prop_ID>
+    <Name>Greene Playground</Name>
+    <Location>Greene Ave &amp; Waveryl Pl</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6865</lat>
+    <lon>-73.9662</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B130</Prop_ID>
+    <Name>GREENWOOD PLGD.</Name>
+    <Location>Ft Hamilton Pkwy Greenwood Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6504</lat>
+    <lon>-73.9763</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210H</Prop_ID>
+    <Name>Harold Ickes</Name>
+    <Location>Hamilton Ave &amp; Van Brunt St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B285</Prop_ID>
+    <Name>Harry Maze Playground</Name>
+    <Location>Ave D &amp; E 57th</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.643</lat>
+    <lon>-73.923</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B323</Prop_ID>
+    <Name>HATTIE CARTHAN</Name>
+    <Location>Monroe and Marcy Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6858</lat>
+    <lon>-73.946</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B139</Prop_ID>
+    <Name>Heckscher Playground</Name>
+    <Location>Grove to Linden Sts.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B088</Prop_ID>
+    <Name>HERBERT VON KING PARK</Name>
+    <Location>Lafayette &amp; Thompkins Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6894</lat>
+    <lon>-73.9459</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B235</Prop_ID>
+    <Name>Herman Dolgon Playground</Name>
+    <Location>Ave V &amp; Nostrand Ave.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.598</lat>
+    <lon>-73.9407</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B166B</Prop_ID>
+    <Name>Homecrest Playground</Name>
+    <Location>Homecrest Ave &amp; Belt Pkwy</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.5867</lat>
+    <lon>-73.9571</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B260</Prop_ID>
+    <Name>HOWARD HOUSES PLGD &amp; POOL</Name>
+    <Location>Glenmore Ave &amp; Stone St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6717</lat>
+    <lon>-73.9088</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B343</Prop_ID>
+    <Name>IS 275 (Osborn)</Name>
+    <Location>Linden Blvd. &amp; Osborn St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.656</lat>
+    <lon>-73.906</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B357</Prop_ID>
+    <Name>IS 320 (JACKIE ROBINSON)</Name>
+    <Location>Sullivan Pl &amp; Franklin Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6657</lat>
+    <lon>-73.9595</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B144</Prop_ID>
+    <Name>IS 55 (OCEAN HILL)</Name>
+    <Location>Bergen &amp; Rockaway Aves</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.6747</lat>
+    <lon>-73.9126</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B330</Prop_ID>
+    <Name>IS 78 PLGD. HICKMAN PARK)</Name>
+    <Location>Veterans Ave &amp; 68th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6204</lat>
+    <lon>-73.9137</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B111</Prop_ID>
+    <Name>J.J. BYRNE MEMORIAL PARK</Name>
+    <Location>4th Ave &amp; 3rd St</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B294</Prop_ID>
+    <Name>JACKIE ROBINSON PARK - PS 21</Name>
+    <Location>Chauncey, Reid &amp; Marion Sts.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.68</lat>
+    <lon>-73.9283</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B324</Prop_ID>
+    <Name>JACOB JOFFE PARK</Name>
+    <Location>Ave K &amp; E 58th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6248</lat>
+    <lon>-73.919</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B282</Prop_ID>
+    <Name>Patrick O&#x2019;Rourke Park </Name>
+    <Location>12th Ave &amp; 81st St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6192</lat>
+    <lon>-74.0141</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B279</Prop_ID>
+    <Name>JHS 211 (WILSON)</Name>
+    <Location>Ave J &amp; 100th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6422</lat>
+    <lon>-73.8945</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B325</Prop_ID>
+    <Name>JHS 271 FISH PLGD</Name>
+    <Location>Saratoga Ave &amp; Herkimer St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6783</lat>
+    <lon>-73.9145</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B353</Prop_ID>
+    <Name>JHS 312 (BERGEN BEACH)</Name>
+    <Location>Ave N &amp; Est 71st</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6227</lat>
+    <lon>-73.9094</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B111A</Prop_ID>
+    <Name>JHS 51 (Terrapin Plgd)</Name>
+    <Location>4th Ave &amp; 3rd St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6735</lat>
+    <lon>-73.9856</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B335</Prop_ID>
+    <Name>JHS 68 (BILDERSEE)</Name>
+    <Location>Flatlands Ave &amp; 81st st</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6362</lat>
+    <lon>-73.9118</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210A</Prop_ID>
+    <Name>JOHN ALLEN PAYNE PARK</Name>
+    <Location>3rd Ave &amp; 65 th st</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6402</lat>
+    <lon>-74.0243</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210B</Prop_ID>
+    <Name>JOHN D'EMIC SR. MEMORIAL PARK</Name>
+    <Location>3rd Ave 35th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6558</lat>
+    <lon>-74.0045</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210W</Prop_ID>
+    <Name>JOHN J. CARTY PLGD.</Name>
+    <Location>Ft Hamilton Pkwy &amp; 100 th St</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6128</lat>
+    <lon>-74.0305</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B291</Prop_ID>
+    <Name>JOHN MARSHALL POWER PLGD.</Name>
+    <Location>Utica Ave &amp; Ave N</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6186</lat>
+    <lon>-73.9277</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B129</Prop_ID>
+    <Name>Kaiser</Name>
+    <Location>Neptune &amp; Bayview Aves</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.5792</lat>
+    <lon>-73.9923</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B304</Prop_ID>
+    <Name>Kennedy King Playground</Name>
+    <Location>Lenoix Rd &amp; E 92nd</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6588</lat>
+    <lon>-73.9218</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B150</Prop_ID>
+    <Name>Kolbert Playground</Name>
+    <Location>Ave L &amp; East 17th</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6197</lat>
+    <lon>-73.9577</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B317</Prop_ID>
+    <Name>LAFAYETTE HOUSES PLGD.</Name>
+    <Location>Lafayette &amp; Franklin Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.69</lat>
+    <lon>-73.9574</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B023</Prop_ID>
+    <Name>LAFAYETTE PLGD.</Name>
+    <Location>Lafayette Ave &amp; Mallcom X Blvd.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6925</lat>
+    <lon>-73.9297</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B167</Prop_ID>
+    <Name>LaGuardia Playground</Name>
+    <Location>South Roebling &amp; South 4th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7105</lat>
+    <lon>-73.9597</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B054</Prop_ID>
+    <Name>LINCOLN TERRACE PARK</Name>
+    <Location>Buffalo Ave &amp; Eastern Pkwy</Location>
+    <Num_of_Courts>13</Num_of_Courts>
+    <lat>40.6665</lat>
+    <lon>-73.9273</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B214</Prop_ID>
+    <Name>Linden Park</Name>
+    <Location>Linden Blvd &amp; Stanley</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.659</lat>
+    <lon>-73.8864</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B149B</Prop_ID>
+    <Name>Linwood Playground</Name>
+    <Location>Linwood Street and Hegman Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B099</Prop_ID>
+    <Name>Lt. Petrosino Playground</Name>
+    <Location>70th St &amp; New Utrecht Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6193</lat>
+    <lon>-73.9987</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B251</Prop_ID>
+    <Name>Manhattan Beach</Name>
+    <Location>Oriental Blvd</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B217</Prop_ID>
+    <Name>MARCY HOUSES PLGD.</Name>
+    <Location>Mrytle &amp; Nostrand &amp; Marcy Aves</Location>
+    <Num_of_Courts>10</Num_of_Courts>
+    <lat>40.6955</lat>
+    <lon>-73.9522</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B223O02</Prop_ID>
+    <Name>Marcy Park</Name>
+    <Location>South Marcy Ave &amp; S 9th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B016</Prop_ID>
+    <Name>Maria Hernandez Park</Name>
+    <Location>Knickerbocker &amp; Irving Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7032</lat>
+    <lon>-73.9232</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B057</Prop_ID>
+    <Name>MARINE PARK</Name>
+    <Location>Burnett St &amp; Filmore Ave</Location>
+    <Num_of_Courts>12</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B057</Prop_ID>
+    <Name>MARINE PARK (EAST 38th STREET)</Name>
+    <Location>East 38th &amp; Ave U</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B057</Prop_ID>
+    <Name>MARINE PK (PS 277) DR JOHNS</Name>
+    <Location>Gerritsen Ave &amp; Ave V</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B110</Prop_ID>
+    <Name>MARION &amp; HOPKINSON PLGD.</Name>
+    <Location>Hopkinson &amp; Marion Sts</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat>40.6818</lat>
+    <lon>-73.9137</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B272</Prop_ID>
+    <Name>Marlboro</Name>
+    <Location>Ave w &amp; West 11th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.591</lat>
+    <lon>-73.9806</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B056</Prop_ID>
+    <Name>Martin Luther King</Name>
+    <Location>Miller, Dumont &amp; Blake Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.668</lat>
+    <lon>-73.8907</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B098</Prop_ID>
+    <Name>MARTIN LUTHER PLGD.</Name>
+    <Location>2nd Ave &amp; 55th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6457</lat>
+    <lon>-74.0195</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B127</Prop_ID>
+    <Name>Martinez Playground</Name>
+    <Location>Scholes St &amp; Graham Ave</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.7088</lat>
+    <lon>-73.9447</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B058</Prop_ID>
+    <Name>McCarren Park</Name>
+    <Location>Union Avenue between Driggs Avenue and Bayard Street</Location>
+    <Num_of_Courts>12</Num_of_Courts>
+    <lat>40.7198</lat>
+    <lon>-73.9519</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B061</Prop_ID>
+    <Name>McLaughlin Park</Name>
+    <Location>Tillary &amp; Jay Sts</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6965</lat>
+    <lon>-73.9868</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B197</Prop_ID>
+    <Name>Mellett Playground</Name>
+    <Location>Ave V &amp; East 13th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5971</lat>
+    <lon>-73.9576</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B022</Prop_ID>
+    <Name>Middelton Playground</Name>
+    <Location>Lynch &amp; Middleton Streets &amp; Lee Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7008</lat>
+    <lon>-73.9557</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B396</Prop_ID>
+    <Name>NEHEMIAH PARK</Name>
+    <Location/>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6628</lat>
+    <lon>-73.9054</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B135</Prop_ID>
+    <Name>Newton Barge Playground</Name>
+    <Location>Commercial, Dupont &amp; West Streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7362</lat>
+    <lon>-73.9603</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B250</Prop_ID>
+    <Name>Nostrand Playground</Name>
+    <Location>Nostrand &amp; Foster Aves</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6385</lat>
+    <lon>-73.9467</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B237</Prop_ID>
+    <Name>P.S. 3 (JEFFERSON) PLGD.</Name>
+    <Location>Bedford Ave&amp; Hancock St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6822</lat>
+    <lon>-73.954</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B356</Prop_ID>
+    <Name>PACIFIC PLGD</Name>
+    <Location>Howard Ave &amp; Pacific St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B218</Prop_ID>
+    <Name>Paerdegat Pk</Name>
+    <Location>Foster Ave. &amp; 41st St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6379</lat>
+    <lon>-73.9384</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B253</Prop_ID>
+    <Name>Parham Playground</Name>
+    <Location>Adelphi St &amp; Dekalb Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6901</lat>
+    <lon>-73.9711</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B251</Prop_ID>
+    <Name>Pat Parlato</Name>
+    <Location>Oriental Blvd</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B208</Prop_ID>
+    <Name>PFC Thomas Norton</Name>
+    <Location>Nostrand Ave &amp; Marine Pkwy</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6143</lat>
+    <lon>-73.9449</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B309</Prop_ID>
+    <Name>Pink Houses</Name>
+    <Location>Stanley Ave &amp; Eldert St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6664</lat>
+    <lon>-73.8625</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210I</Prop_ID>
+    <Name>PLAYGROUND THREE-FORTY</Name>
+    <Location>3rd Ave &amp; 40th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6526</lat>
+    <lon>-74.0088</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B169B</Prop_ID>
+    <Name>Poseidon Playground (Coney Island)</Name>
+    <Location>West 27th Street End &amp; Reigelmann Boardwalk</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.5722</lat>
+    <lon>-73.992</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B156</Prop_ID>
+    <Name>Powell Playground</Name>
+    <Location>Sackman Ave &amp; Powell Sts</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6715</lat>
+    <lon>-73.9051</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B292</Prop_ID>
+    <Name>Pratt Playground</Name>
+    <Location>Willoughby Ave&amp; Emerson Pl</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6928</lat>
+    <lon>-73.9628</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B210J</Prop_ID>
+    <Name>PS 1 PLGD</Name>
+    <Location>3rd Ave &amp; 46th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.649</lat>
+    <lon>-74.012</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B266</Prop_ID>
+    <Name>PS 117 STAR SPAGLED BAN</Name>
+    <Location>Franklin Ave&amp; Willoughby St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6915</lat>
+    <lon>-73.958</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B248</Prop_ID>
+    <Name>PS 251 Plgd. (DAVID A. FOX MEM. PARK)</Name>
+    <Location>Ave H &amp; E 55th</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6323</lat>
+    <lon>-73.9241</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B140</Prop_ID>
+    <Name>PS 256 (Banneker)</Name>
+    <Location>Marcy Ave &amp; Kosciusko St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6904</lat>
+    <lon>-73.9497</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B269</Prop_ID>
+    <Name>PS 26/JHS 57 (J. Owens)</Name>
+    <Location>Stuyvesant St &amp; Lafayette Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6911</lat>
+    <lon>-73.933</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B247</Prop_ID>
+    <Name>PS 260 (BREUKELEN) PLGD.</Name>
+    <Location>Louisianna &amp; Flatlands Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6541</lat>
+    <lon>-73.8931</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B313</Prop_ID>
+    <Name>PS 262 EL SHABAZZ PLGD</Name>
+    <Location>Malcom X Blvd&amp; Macon St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6827</lat>
+    <lon>-73.9305</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B274</Prop_ID>
+    <Name>PS 272 (BAYVIEW) PLGD.</Name>
+    <Location>Seaview Ave &amp; 99th st</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6346</lat>
+    <lon>-73.8873</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B306</Prop_ID>
+    <Name>PS 286</Name>
+    <Location>Ave Y &amp; Brown St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5909</lat>
+    <lon>-73.9382</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B298</Prop_ID>
+    <Name>PS 297 (STOCKTON) PLGD.</Name>
+    <Location>Marcy Ave &amp; Park Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6974</lat>
+    <lon>-73.949</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B322</Prop_ID>
+    <Name>PS 304 ( Pulaski)</Name>
+    <Location>Sumner Ave &amp; Hart St PS 305</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6938</lat>
+    <lon>-73.9416</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B350</Prop_ID>
+    <Name>PS 316 (STROUD)</Name>
+    <Location>Classon Ave &amp; Sterling St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6751</lat>
+    <lon>-73.9619</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B362</Prop_ID>
+    <Name>PS 327 (CHESTER)</Name>
+    <Location>Chester St &amp; Sutter Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6687</lat>
+    <lon>-73.9119</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B363</Prop_ID>
+    <Name>PS 332 (HOUSTON)</Name>
+    <Location>Powell &amp; Liberty Sts</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6724</lat>
+    <lon>-73.905</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B364</Prop_ID>
+    <Name>PS 335 (WOODS)</Name>
+    <Location>Bergen St &amp; Utica Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6746</lat>
+    <lon>-73.9291</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B339</Prop_ID>
+    <Name>PS 41 (NEWPORT)</Name>
+    <Location>Newport Ave &amp; Osborne St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6607</lat>
+    <lon>-73.9068</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B216</Prop_ID>
+    <Name>PS 44 (Putnam)</Name>
+    <Location>Patchen St. &amp; Ralph Avenues</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6863</lat>
+    <lon>-73.9391</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B263</Prop_ID>
+    <Name>PS 59 (SUMNER HOUSES) PLGD.</Name>
+    <Location>Throop, Park &amp; Myrtle Aves.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6977</lat>
+    <lon>-73.9432</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B267</Prop_ID>
+    <Name>PS 92 (PARKSIDE)</Name>
+    <Location>Parkside &amp; Bedford Aves</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6566</lat>
+    <lon>-73.9537</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B271</Prop_ID>
+    <Name>Railroad Playground</Name>
+    <Location>Ditmas Ave &amp; 91st</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6496</lat>
+    <lon>-73.914</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B265</Prop_ID>
+    <Name>RAINBOW PLGD</Name>
+    <Location>6th Ave &amp; 55th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6408</lat>
+    <lon>-74.011</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B059</Prop_ID>
+    <Name>Ramirez Playground</Name>
+    <Location>White McKibben &amp; Bogart Streets</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B126</Prop_ID>
+    <Name>RED HOOK PARK</Name>
+    <Location>Lorrain &amp; Clinton Sts</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6726</lat>
+    <lon>-74.0083</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B223P01</Prop_ID>
+    <Name>Rodney Park Center</Name>
+    <Location>Borinquen Pl &amp; 3rd St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7086</lat>
+    <lon>-73.9567</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B264</Prop_ID>
+    <Name>Roebling Playground</Name>
+    <Location>Wilson &amp; Lee Aves &amp; Taylor St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7063</lat>
+    <lon>-73.9619</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B192</Prop_ID>
+    <Name>RUSSELL PEDERSON PLGD</Name>
+    <Location>Colonial Rd &amp; 83rd St</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6259</lat>
+    <lon>-74.0364</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B224</Prop_ID>
+    <Name>Salgado Playground</Name>
+    <Location>Madison St &amp; Patchen Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6879</lat>
+    <lon>-73.9252</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B100</Prop_ID>
+    <Name>Seth Low Playground</Name>
+    <Location>Ave P &amp; Bay Pkwy</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6076</lat>
+    <lon>-73.9862</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B096</Prop_ID>
+    <Name>Sgt Dougherty Playground</Name>
+    <Location>Vandervoort Ave &amp; Anthony St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B239</Prop_ID>
+    <Name>Sheepshead Bay HS</Name>
+    <Location>Rec Area Ave Z &amp; Nostrand Ave.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.5893</lat>
+    <lon>-73.9405</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B124</Prop_ID>
+    <Name>Sheridan Playground</Name>
+    <Location>Wythe Ave Berry St &amp; Grand Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7151</lat>
+    <lon>-73.9646</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B082</Prop_ID>
+    <Name>SHORE ROAD PARK (95th STREET)</Name>
+    <Location>Shore Road &amp; 95th</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B163</Prop_ID>
+    <Name>Sperandeo Brothers Playground</Name>
+    <Location>Atlantic Ave &amp; Elton St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6764</lat>
+    <lon>-73.8846</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B225</Prop_ID>
+    <Name>ST. ANDREW'S PLGD.</Name>
+    <Location>Atlantic Ave &amp; Herkimer St</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6783</lat>
+    <lon>-73.9419</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B245</Prop_ID>
+    <Name>ST. JOHN'S RECREATION CENTER</Name>
+    <Location>Troy Ave &amp; Prospect Pl</Location>
+    <Num_of_Courts>12</Num_of_Courts>
+    <lat>40.6742</lat>
+    <lon>-73.9341</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B055</Prop_ID>
+    <Name>Sternberg Park</Name>
+    <Location>Montrose Ave/ Lorimer &amp; Leonard Streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7057</lat>
+    <lon>-73.9477</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B221</Prop_ID>
+    <Name>Steuben Plgd</Name>
+    <Location>Flushing Ave &amp; Steuben St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B087</Prop_ID>
+    <Name>SUNSET PARK</Name>
+    <Location>6th Ave &amp; 41st St</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B105</Prop_ID>
+    <Name>TAAFFE PLGD.</Name>
+    <Location>Taffee Pl &amp; Myrtle Aves</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B311</Prop_ID>
+    <Name>Ten Eyck Playground</Name>
+    <Location>Bushwick Ave &amp; Scholes St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B381</Prop_ID>
+    <Name>Thomas Boyland Park</Name>
+    <Location>Broadway &amp; Furman Sts</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6813</lat>
+    <lon>-73.9069</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B145</Prop_ID>
+    <Name>THOMAS GREENE PK</Name>
+    <Location>Nevins &amp; Degraw Sts</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6806</lat>
+    <lon>-73.9862</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B307</Prop_ID>
+    <Name>Tiger Playground</Name>
+    <Location>Evergreen Ave to Eldert St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6881</lat>
+    <lon>-73.9114</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B234</Prop_ID>
+    <Name>Tilden Playground</Name>
+    <Location>Tilden Ave &amp; E 48th</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6479</lat>
+    <lon>-73.9315</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B161</Prop_ID>
+    <Name>UNDERHILL PLGD</Name>
+    <Location>Underhill Ave &amp; Prospect Pl</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>B249</Prop_ID>
+    <Name>VAN DYKE HOUSES PLGD.</Name>
+    <Location>Dumont Ave &amp; Powell St</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6641</lat>
+    <lon>-73.9043</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B050</Prop_ID>
+    <Name>Van Voorhees</Name>
+    <Location>Congress &amp; Colombia Sts</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6904</lat>
+    <lon>-73.9992</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B220</Prop_ID>
+    <Name>Washington &amp; Hall Park</Name>
+    <Location>Washington Ave &amp; Hall St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6952</lat>
+    <lon>-73.9668</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B252</Prop_ID>
+    <Name>West Playground</Name>
+    <Location>Ave Z &amp; West 1st</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5868</lat>
+    <lon>-73.9698</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B051</Prop_ID>
+    <Name>William E. Kelly Memorial Park</Name>
+    <Location>Ave S &amp; 14th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6039</lat>
+    <lon>-73.9572</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B051</Prop_ID>
+    <Name>William Kelly Playground</Name>
+    <Location>Ave S &amp; 14th St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6038</lat>
+    <lon>-73.9571</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B348</Prop_ID>
+    <Name>Willoughby Playground</Name>
+    <Location>Willoughby Thompkin Ave &amp; Willoughby St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6947</lat>
+    <lon>-73.9469</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B312</Prop_ID>
+    <Name>Woodruff</Name>
+    <Location>Stanley Ave &amp; Hemlock St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M056</Prop_ID>
+    <Name>123rd Morningside Park</Name>
+    <Location>Morningside &amp; 121 Street</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8094</lat>
+    <lon>-73.9561</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M037</Prop_ID>
+    <Name>175th Re. Area</Name>
+    <Location>175 Street &amp; Amsterdam</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M124</Prop_ID>
+    <Name>1st Street Playground</Name>
+    <Location>East 1st St. &amp; 1st Ave.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7235</lat>
+    <lon>-73.9896</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M108Q</Prop_ID>
+    <Name>24 Sycamores Playground</Name>
+    <Location>York &amp; 61 Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7593</lat>
+    <lon>-73.9586</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M194</Prop_ID>
+    <Name>Al Smith Recreation Center</Name>
+    <Location>Catherine Slip &amp; Monroe St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7102</lat>
+    <lon>-73.9981</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M164</Prop_ID>
+    <Name>Asser Levy Playground</Name>
+    <Location>East 23 Street &amp; FDR</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7368</lat>
+    <lon>-73.9752</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M165</Prop_ID>
+    <Name>Baruch Playground</Name>
+    <Location>Irvington &amp; Baruch Pl.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7176</lat>
+    <lon>-73.9763</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M214</Prop_ID>
+    <Name>Blake Hobbs Playground</Name>
+    <Location>104 &amp; 2 Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7884</lat>
+    <lon>-73.9445</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M200</Prop_ID>
+    <Name>Booker T. Washington Playground</Name>
+    <Location>107 St.&amp; Columbus</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8014</lat>
+    <lon>-73.9642</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M037</Prop_ID>
+    <Name>Buszek Playground</Name>
+    <Location>193 &amp; Amsterdam</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M155</Prop_ID>
+    <Name>C. Callendar</Name>
+    <Location>130 &amp; 5 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8101</lat>
+    <lon>-73.9404</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M018</Prop_ID>
+    <Name>Carmansville Playground</Name>
+    <Location>Amsterdam &amp; 151 Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8293</lat>
+    <lon>-73.944</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M011</Prop_ID>
+    <Name>Chelsea Park</Name>
+    <Location>9th Ave. &amp; 27th St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.75</lat>
+    <lon>-74.0005</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M171</Prop_ID>
+    <Name>Cherry Clinton</Name>
+    <Location>Cherry &amp; Water St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7113</lat>
+    <lon>-73.9861</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M215</Prop_ID>
+    <Name>Cherry Tree Playground</Name>
+    <Location>99 Street &amp; 3 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7873</lat>
+    <lon>-73.9469</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M186</Prop_ID>
+    <Name>Col. Young</Name>
+    <Location>143 &amp; Harlem River</Location>
+    <Num_of_Courts>12</Num_of_Courts>
+    <lat>40.8186</lat>
+    <lon>-73.9349</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M019</Prop_ID>
+    <Name>Coleman Playground</Name>
+    <Location>Market St. &amp; Monroe St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M208E</Prop_ID>
+    <Name>Crack is Wack! Playground</Name>
+    <Location>128 &amp; 2 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8047</lat>
+    <lon>-73.9318</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M022</Prop_ID>
+    <Name>De Witt Clinton Park</Name>
+    <Location>53rd St. &amp; 12th Ave.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7686</lat>
+    <lon>-73.9944</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M066</Prop_ID>
+    <Name>Dr. Gertrude B. Kelly Playground</Name>
+    <Location>West 17th St. &amp; 8th Ave.</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.7417</lat>
+    <lon>-74.0021</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M217</Prop_ID>
+    <Name>Dr. Howard Bennett Playground</Name>
+    <Location>135 &amp; Lenox</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8134</lat>
+    <lon>-73.9385</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M208A</Prop_ID>
+    <Name>Each One Teach One</Name>
+    <Location>128 &amp; 3Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8064</lat>
+    <lon>-73.9353</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M258</Prop_ID>
+    <Name>East River Playground</Name>
+    <Location>120 Street &amp; Park Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M243</Prop_ID>
+    <Name>Eugene McCabe Field</Name>
+    <Location>120 &amp; Park Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M028</Prop_ID>
+    <Name>Fort Washington Park</Name>
+    <Location>158th Street</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M028</Prop_ID>
+    <Name>Fort Washington Park</Name>
+    <Location>160th Street</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M220</Prop_ID>
+    <Name>Frederick Douglass Playground</Name>
+    <Location>Amsterdam &amp; 102St</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M159</Prop_ID>
+    <Name>Frederick Johnson Playground</Name>
+    <Location>7 Avenue &amp; 150 Street</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8245</lat>
+    <lon>-73.9351</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M221</Prop_ID>
+    <Name>Gutenberg</Name>
+    <Location>N/S W 49 ST, 9 &amp; 10 Aves</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.7633</lat>
+    <lon>-73.9899</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M033</Prop_ID>
+    <Name>Hamilton Fish Park</Name>
+    <Location>128 Pitt St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7193</lat>
+    <lon>-73.9804</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M041</Prop_ID>
+    <Name>Hamilton Place Playground</Name>
+    <Location>W 140 &amp; Hamilton Pl</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8231</lat>
+    <lon>-73.9515</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M229</Prop_ID>
+    <Name>Happy Warrior Playground</Name>
+    <Location>Amsterdam &amp; W 98 St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M277</Prop_ID>
+    <Name>Hell's Kitchen Park</Name>
+    <Location>47th St. &amp; 10th Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7631</lat>
+    <lon>-73.9924</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M228</Prop_ID>
+    <Name>Henry Jackson Playground</Name>
+    <Location>Jackson St. &amp; Henry St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7139</lat>
+    <lon>-73.9818</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M216</Prop_ID>
+    <Name>Holcombe Rucker Playground</Name>
+    <Location>156 &amp; 8 Ave</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8294</lat>
+    <lon>-73.9361</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M042</Prop_ID>
+    <Name>Inwood Park</Name>
+    <Location>207 &amp; Seaman Ave</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.8698</lat>
+    <lon>-73.9225</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M099</Prop_ID>
+    <Name>J. Hood Wright Park</Name>
+    <Location>176 St. &amp; Ft. Washington Ave</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8471</lat>
+    <lon>-73.9407</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M038</Prop_ID>
+    <Name>J.J. Walker Park</Name>
+    <Location>Hudson &amp; Leroy St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7296</lat>
+    <lon>-74.0059</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M223</Prop_ID>
+    <Name>Jacob Schiff Playground (P.S. 192)</Name>
+    <Location>Amsterdam &amp; 136 St.</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8203</lat>
+    <lon>-73.9526</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M111</Prop_ID>
+    <Name>James Weldon Johnson Playground</Name>
+    <Location>115 St. &amp; Lexington Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7974</lat>
+    <lon>-73.942</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M045</Prop_ID>
+    <Name>John Jay Park</Name>
+    <Location>E 77 St &amp; Cherokee Pl.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7692</lat>
+    <lon>-73.9501</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M132</Prop_ID>
+    <Name>LaGuardia Playground</Name>
+    <Location>Madison St. off Jefferson St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7123</lat>
+    <lon>-73.9887</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M065</Prop_ID>
+    <Name>Luther Gulick Park</Name>
+    <Location>Columbia &amp; Delancey Streets</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7162</lat>
+    <lon>-73.9823</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M213</Prop_ID>
+    <Name>Mae Grant Playground</Name>
+    <Location>104 &amp; Madison</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7925</lat>
+    <lon>-73.9492</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M154</Prop_ID>
+    <Name>May Matthews Playground</Name>
+    <Location>46th St. &amp; 9th Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7616</lat>
+    <lon>-73.9927</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M161</Prop_ID>
+    <Name>McCaffrey Park</Name>
+    <Location>46th St. &amp; 8th Ave.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M199</Prop_ID>
+    <Name>Monsignor Kett Playground</Name>
+    <Location>204 &amp; 10th Ave.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M059</Prop_ID>
+    <Name>Murphy's Brother</Name>
+    <Location>17 St. &amp; Ave.C St.</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat>40.7303</lat>
+    <lon>-73.9737</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M241</Prop_ID>
+    <Name>Nathan Straus Park</Name>
+    <Location>Rivington &amp; Attorney St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7193</lat>
+    <lon>-73.9844</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M010</Prop_ID>
+    <Name>North Meadow Recreation Center</Name>
+    <Location>Mid-park at 97th Street</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.7914</lat>
+    <lon>-73.9593</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M234</Prop_ID>
+    <Name>Orville &amp; Wilbur Playground</Name>
+    <Location>St. Nick Avenue &amp; West 156 Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8319</lat>
+    <lon>-73.9421</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M205</Prop_ID>
+    <Name>P.S. 125</Name>
+    <Location>Morningside &amp; 125 St.</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8112</lat>
+    <lon>-73.9564</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M239</Prop_ID>
+    <Name>P.S. 155</Name>
+    <Location>118 &amp; 2 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7971</lat>
+    <lon>-73.9353</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M183</Prop_ID>
+    <Name>Peter Minuit Playground</Name>
+    <Location>108 &amp; Park Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M233</Prop_ID>
+    <Name>Playground 70</Name>
+    <Location>70 Street &amp; Amsterdam</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7771</lat>
+    <lon>-73.9839</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M230</Prop_ID>
+    <Name>Poor Richard's Playground</Name>
+    <Location>109 Street &amp; 3 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7924</lat>
+    <lon>-73.9423</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M245</Prop_ID>
+    <Name>Renaissance Playground (P.S. 194)</Name>
+    <Location>144 &amp; 8 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8215</lat>
+    <lon>-73.9414</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M071</Prop_ID>
+    <Name>Riverside Park</Name>
+    <Location>111th Street</Location>
+    <Num_of_Courts>5</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M158</Prop_ID>
+    <Name>Robert Moses Playground</Name>
+    <Location>42 St. &amp; FDR</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7478</lat>
+    <lon>-73.9689</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M105</Prop_ID>
+    <Name>Sara D. Roosevelt Park</Name>
+    <Location>Irvington &amp; Forsyth</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M190</Prop_ID>
+    <Name>Sheltering Arms Park</Name>
+    <Location>W 126 &amp; Amsterdam</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8147</lat>
+    <lon>-73.9559</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M244</Prop_ID>
+    <Name>Sol Bloom Playground</Name>
+    <Location>West 92 Street &amp; Columbus</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7896</lat>
+    <lon>-73.9691</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M079</Prop_ID>
+    <Name>St. Catherine's Playground</Name>
+    <Location>1st Ave &amp; 27 St.</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7654</lat>
+    <lon>-73.9591</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M077</Prop_ID>
+    <Name>St. Nick 141st</Name>
+    <Location>139 &amp; St. Nicholas</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M198</Prop_ID>
+    <Name>St. Nick Terrace " Martin Luther King Houses Playground</Name>
+    <Location>114 &amp; Lenox</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.8002</lat>
+    <lon>-73.9506</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M076</Prop_ID>
+    <Name>St. Vartan's Park</Name>
+    <Location>2 Ave &amp; East 35 Street</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7457</lat>
+    <lon>-73.9749</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M077</Prop_ID>
+    <Name>St.Nick 133rd</Name>
+    <Location>133rd and St. Nicholas</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M192</Prop_ID>
+    <Name>Stanley M. Isaacs Courts</Name>
+    <Location>FDR &amp; 97 ST</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.7836</lat>
+    <lon>-73.944</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M037</Prop_ID>
+    <Name>Sunken Playground</Name>
+    <Location>167 Street &amp; Edgecombe Avenue</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M047</Prop_ID>
+    <Name>Thomas Jefferson Playground</Name>
+    <Location>111 Street &amp; 1 Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M069</Prop_ID>
+    <Name>Thompson Street Playground/Vesuvio Playground</Name>
+    <Location>Tompson Street &amp; Spring Street</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.7252</lat>
+    <lon>-74.0026</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M088</Prop_ID>
+    <Name>Tompkins Square Park</Name>
+    <Location>Ave. B &amp; 10th St</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>M265</Prop_ID>
+    <Name>Vincent F. Albano, Jr. Playground</Name>
+    <Location>2 Avenue &amp; 29 Street</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7422</lat>
+    <lon>-73.9786</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M225</Prop_ID>
+    <Name>Wagner Playground</Name>
+    <Location>122 Street &amp; 2 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.8001</lat>
+    <lon>-73.9351</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M125C</Prop_ID>
+    <Name>West 4th Street Courts</Name>
+    <Location>Avenue of the Americas between West 3rd and 4th streets</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.7311</lat>
+    <lon>-74.0009</lon>
+  </facility>
+  <facility>
+    <Prop_ID>M148</Prop_ID>
+    <Name>White Playground</Name>
+    <Location>106 Street &amp; 3 Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7917</lat>
+    <lon>-73.9456</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q099</Prop_ID>
+    <Name>111 Street Playground (near Playground for All Children)</Name>
+    <Location>CORONA AVENUE/111 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q005</Prop_ID>
+    <Name>157TH STREET P/G(BAISLEY)</Name>
+    <Location>157 ST &amp; 116 AVE</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q318</Prop_ID>
+    <Name>80 AVENUE P/G(PS 115)</Name>
+    <Location>80 AVE, 261-262 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7449</lat>
+    <lon>-73.7099</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q338</Prop_ID>
+    <Name>ADMIRAL PARK(PS 94,SY SEPLOWE)</Name>
+    <Location>LITTLE NECK PKWY, 42-43 AVES</Location>
+    <Num_of_Courts>0</Num_of_Courts>
+    <lat>40.7711</lat>
+    <lon>-73.738</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q051</Prop_ID>
+    <Name>ALBANS PARK</Name>
+    <Location>MERRICK BLVD, 173 PL, SAYERS AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6937</lat>
+    <lon>-73.7798</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q099</Prop_ID>
+    <Name>ALBERT H. MAURO P/G</Name>
+    <Location>PARK DRIVE EAST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q356</Prop_ID>
+    <Name>ALLEY P/G(PS 213)</Name>
+    <Location>67 AVE &amp; 230 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7473</lat>
+    <lon>-73.7446</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q001A</Prop_ID>
+    <Name>ALLEY PK ATHLETIC FIELD</Name>
+    <Location>UNION TPKE, GRAND CENTRAL PKWYS, WINCHESTER BLVD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7387</lat>
+    <lon>-73.7378</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q001</Prop_ID>
+    <Name>ALLEY POND (WILDFLOWER MEADOW)</Name>
+    <Location>KINGSBURY AVE, GRAND CENTRAL PKWY</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q443</Prop_ID>
+    <Name>ALMEDA PLAYGROUND(PS 42)</Name>
+    <Location>B 65 ST, BCH CHANNEL DR</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5935</lat>
+    <lon>-73.7946</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q319</Prop_ID>
+    <Name>ANNADALE PLAYGROUND(PS 175)</Name>
+    <Location>YELLOWSTN BLVD/65 RD-65 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7314</lat>
+    <lon>-73.8517</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q313</Prop_ID>
+    <Name>ARVERNE PLAYGROUND</Name>
+    <Location>ARVERNE BLVD &amp; B 55 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5931</lat>
+    <lon>-73.785</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q014</Prop_ID>
+    <Name>ASTORIA HEIGHTS P/G (JHS 10)</Name>
+    <Location>30 RD, 45-46 STS</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.76</lat>
+    <lon>-73.9123</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q005</Prop_ID>
+    <Name>BAISLEY SOUTH</Name>
+    <Location/>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q005</Prop_ID>
+    <Name>BAISLEY TENNIS</Name>
+    <Location>155 ST &amp; FOCH BLVD</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q399</Prop_ID>
+    <Name>BAY TERRACE P/G(PS 169)</Name>
+    <Location>NE CORNER 212 ST &amp; 23 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7821</lat>
+    <lon>-73.7777</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q389</Prop_ID>
+    <Name>BAYSIDE P/G (JHS 180)</Name>
+    <Location>BCH CHANNEL DR &amp; SEASIDE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5851</lat>
+    <lon>-73.8252</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q162E</Prop_ID>
+    <Name>BEACH 59TH ST P/G</Name>
+    <Location>BOARDWALK &amp; BEACH 59-60 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.589</lat>
+    <lon>-73.7889</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q162J01</Prop_ID>
+    <Name>BEACH 9TH ST P/G</Name>
+    <Location>BEACH 9 ST &amp; SEAGIRT BLVD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5955</lat>
+    <lon>-73.7448</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q403</Prop_ID>
+    <Name>BEACH CHANNEL PLGD (PS 183)</Name>
+    <Location>S/S HMLS BLVD/B 80-79 STS/BCH CH</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5888</lat>
+    <lon>-73.8062</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q322</Prop_ID>
+    <Name>BELLAIRE P/G(PS 135)</Name>
+    <Location>HILLSIDE AVE, 207 &amp; 208 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7214</lat>
+    <lon>-73.7581</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q328</Prop_ID>
+    <Name>BELLEROSE P/G(PS 133)</Name>
+    <Location>85 AVE, 248-249 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.733</lat>
+    <lon>-73.7183</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q038</Prop_ID>
+    <Name>BENNINGER PLAYGROUND</Name>
+    <Location>MADISON ST, FRESH POND RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q205A</Prop_ID>
+    <Name>BIG BUSH PARK(COURT SIDE)</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q205A</Prop_ID>
+    <Name>BIG BUSH PARK(P/G SIDE)</Name>
+    <Location>61 ST NR BKLYN QNS EXPRWY</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q326</Prop_ID>
+    <Name>BLAND PLAYGROUND</Name>
+    <Location>40 RD, PRINCE &amp; MAIN STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7583</lat>
+    <lon>-73.8308</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q308</Prop_ID>
+    <Name>BOWNE PLAYGROUND(PS 20)</Name>
+    <Location>SANFORD AV/BARCLAY AV/UNION/BOWNE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7582</lat>
+    <lon>-73.8246</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q134</Prop_ID>
+    <Name>BREININGER PARK</Name>
+    <Location>BRADDOCK AVE &amp; 240 ST</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7257</lat>
+    <lon>-73.7287</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q379</Prop_ID>
+    <Name>BRIARWOOD P/G(JHS 217)</Name>
+    <Location>148 ST &amp; 85 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.71</lat>
+    <lon>-73.8108</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q360U</Prop_ID>
+    <Name>BRIDGE AND TUNNEL PARK</Name>
+    <Location>TUNNEL PLAZA, 50 AVE, 11 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.742</lat>
+    <lon>-73.9512</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q460</Prop_ID>
+    <Name>BROAD CHANNEL PARK</Name>
+    <Location>CROSS BAY BLVD, EAST 16TH RD</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6015</lat>
+    <lon>-73.8199</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q444</Prop_ID>
+    <Name>BROADWAY P/G(SEAN'S PLACE)</Name>
+    <Location>38 ST, 31 AVE &amp; BWAY</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q008</Prop_ID>
+    <Name>BROOKVILLE P/G</Name>
+    <Location>BROOKVILLE BLVD &amp; 143 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6638</lat>
+    <lon>-73.741</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q361</Prop_ID>
+    <Name>C C MOORE HOMESTEAD PARK</Name>
+    <Location>BROADWAY, 45 AVE &amp; 82 ST</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7418</lat>
+    <lon>-73.8828</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q339</Prop_ID>
+    <Name>CABBELL PARK</Name>
+    <Location>121 AVE &amp; 220 ST, FRANCIS LEWIS BL</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6889</lat>
+    <lon>-73.7423</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q300</Prop_ID>
+    <Name>CAPTAIN MARIO FAJARDO PARK</Name>
+    <Location>KISSENA BLVD &amp; BOOTH MEM AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q386</Prop_ID>
+    <Name>CENTERVILLE P/G</Name>
+    <Location>96 ST, CENTERVILLE ST, ALBERT RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6705</lat>
+    <lon>-73.8393</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q346</Prop_ID>
+    <Name>CHALLENGE P/G(PS 187)</Name>
+    <Location>W/S 251 ST BET 61 &amp; 63 AVES</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7561</lat>
+    <lon>-73.7278</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q390</Prop_ID>
+    <Name>CLINTONVILLE P/G(JHS 194)</Name>
+    <Location>CLINTONVILLE ST, BET 17 AVE, 17</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7835</lat>
+    <lon>-73.8082</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q347</Prop_ID>
+    <Name>COLDEN P/G(PS 214)</Name>
+    <Location>UNION ST &amp; 31 RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7699</lat>
+    <lon>-73.8276</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q457</Prop_ID>
+    <Name>COLLEGE POINT PARK</Name>
+    <Location>14 AVE, 121 ST, COLLEGE PT BLVD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7857</lat>
+    <lon>-73.8465</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q394</Prop_ID>
+    <Name>CONCH PLAYGROUND(PS 105)</Name>
+    <Location>BCH CHANNEL DR &amp; B 49 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.596</lat>
+    <lon>-73.7803</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q450</Prop_ID>
+    <Name>CORONA GOLF P/G</Name>
+    <Location>109 ST BET 46-47 AVES</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7476</lat>
+    <lon>-73.8545</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q360J</Prop_ID>
+    <Name>CROWLEY P/G</Name>
+    <Location>N/S QNS MDTWN EXWY, 84 ST-57 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7299</lat>
+    <lon>-73.8792</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q106</Prop_ID>
+    <Name>DANIEL M OCONNELL P/G</Name>
+    <Location>113 &amp; MURDOCK AVES, 196 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6994</lat>
+    <lon>-73.7578</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q307</Prop_ID>
+    <Name>DELPHIN H GREENE P/G(PS 176)</Name>
+    <Location>121 AVE &amp; 237 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6855</lat>
+    <lon>-73.7288</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q385</Prop_ID>
+    <Name>DITMARS PARK</Name>
+    <Location>23 AVE/DITMARS BLVD/STEINWY ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7719</lat>
+    <lon>-73.9066</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q220C</Prop_ID>
+    <Name>DR CHARLES R DREW MEMORIAL PK</Name>
+    <Location>VAN WYCK EXWY, 116 AVE, 140 ST,</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6803</lat>
+    <lon>-73.8021</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q218</Prop_ID>
+    <Name>DUTCH KILLS P/G (PS 112)</Name>
+    <Location>37 AVE, 28 ST, 36 AVE,CRESENT ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7574</lat>
+    <lon>-73.9326</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q373</Prop_ID>
+    <Name>EAST ELMHURST P/G(PS 127)</Name>
+    <Location>25 AVE BET 98 &amp; 100 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7661</lat>
+    <lon>-73.8715</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q404</Prop_ID>
+    <Name>EAST SPRINGFIELD P/G(PS 147)</Name>
+    <Location>115 RD BET 218-219 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6984</lat>
+    <lon>-73.7397</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q304</Prop_ID>
+    <Name>EHRENREICH-AUSTIN P/G</Name>
+    <Location>AUSTIN ST BET 76 AVE &amp; 76 DRIVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.715</lat>
+    <lon>-73.8364</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q342</Prop_ID>
+    <Name>Electrichester Playground/Electric Playground</Name>
+    <Location>W/S 164 ST, S/O 65 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q344</Prop_ID>
+    <Name>EMERALD P/G(PS 200)</Name>
+    <Location>164 ST BET JEWEL &amp; 71 AVES</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7315</lat>
+    <lon>-73.8061</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q302</Prop_ID>
+    <Name>EVERGREEN PARK(PS 68)</Name>
+    <Location>FELIX, SENECA AVES, &amp; 75 AVE</Location>
+    <Num_of_Courts>0</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q221</Prop_ID>
+    <Name>FARM P/G (PS 26)</Name>
+    <Location>73 AVE, 196TH STREET</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7354</lat>
+    <lon>-73.7767</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q015</Prop_ID>
+    <Name>FOREST PARK</Name>
+    <Location>WOODHAVEN BLVD &amp; FOREST PARK DR</Location>
+    <Num_of_Courts>13</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q381</Prop_ID>
+    <Name>FRANCIS LEWIS P/G(PS 130)</Name>
+    <Location>42 AVE AT FRANCIS LEWIS BLVD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7606</lat>
+    <lon>-73.7845</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q126</Prop_ID>
+    <Name>FRANCIS LEWIS PARK</Name>
+    <Location>3 AVE/147 ST/E RIVER/PARSONS BLVD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q098</Prop_ID>
+    <Name>FRANK D. O'CONNOR P/G</Name>
+    <Location>BROADWAY, 78 TO 79 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7441</lat>
+    <lon>-73.8862</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q119</Prop_ID>
+    <Name>FREDERICK B JUDGE P/G</Name>
+    <Location>111 AVE, 134-135 STS, LINCOLN ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6835</lat>
+    <lon>-73.8082</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q223</Prop_ID>
+    <Name>FRESH MEADOWS P/G(PS 173)</Name>
+    <Location>67 AVE &amp; 173 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q360M</Prop_ID>
+    <Name>FRONTERA PARK</Name>
+    <Location>58 AVE BE BROWN PL &amp; 69 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7249</lat>
+    <lon>-73.8957</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q290</Prop_ID>
+    <Name>GLENDALE P/G</Name>
+    <Location>Central Avenue between 70 &amp; 71 streets</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q085</Prop_ID>
+    <Name>GORMAN P/G</Name>
+    <Location>30 AVE, 84 - 85 ST, 25 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.762</lat>
+    <lon>-73.8841</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q353</Prop_ID>
+    <Name>GRASSMERE PLAYGROUND(PS 215)</Name>
+    <Location>GRASSMERE TERR, BRKHAVEN AVE, BR</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.599</lat>
+    <lon>-73.7587</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q002</Prop_ID>
+    <Name>GROVER CLEVELAND PARK</Name>
+    <Location>FAIRVIEW AV/STANHOPE ST/GRANDVW AV</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q358</Prop_ID>
+    <Name>GUNN PARK (PS 18)</Name>
+    <Location>S/S HILLSIDE AVE, E/O 235 CT</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7318</lat>
+    <lon>-73.7315</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q359</Prop_ID>
+    <Name>HAGGERTY PARK</Name>
+    <Location>S/S JAMAICA AVE BET 202-204 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7126</lat>
+    <lon>-73.7578</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q226</Prop_ID>
+    <Name>Hallets Cove Playground</Name>
+    <Location>HALLETS COVE &amp; VERNON BLVD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7719</lat>
+    <lon>-73.9343</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q367</Prop_ID>
+    <Name>HAMMEL PLAYGROUND</Name>
+    <Location>B 83 ST &amp; ROCKAWAY BCH BLVD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5884</lat>
+    <lon>-73.8093</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q357B01</Prop_ID>
+    <Name>HANDBALL HAVEN</Name>
+    <Location>102 ST/62 AVE/YELLOWSTONE BLVD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7361</lat>
+    <lon>-73.8552</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q408</Prop_ID>
+    <Name>HAROLD SCHNEIDERMAN P/G(PS232)</Name>
+    <Location>155 AVE BET 84 &amp; 85 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6649</lat>
+    <lon>-73.8502</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q120</Prop_ID>
+    <Name>HARVARD P/G</Name>
+    <Location>179 PL, N/O JAMAICA AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7089</lat>
+    <lon>-73.7814</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q352</Prop_ID>
+    <Name>HILLSIDE PARK(JHS 172)</Name>
+    <Location>82 AVE, 256 - 257 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7406</lat>
+    <lon>-73.7131</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q360N</Prop_ID>
+    <Name>HOFFMAN PARK</Name>
+    <Location>HOFFMAN DR &amp; SEABURY ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7325</lat>
+    <lon>-73.8728</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q405</Prop_ID>
+    <Name>HOLLIS PLAYGROUND(JHS 192)</Name>
+    <Location>HOLLIS AVE, 205 ST, 111</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7066</lat>
+    <lon>-73.7529</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q300B</Prop_ID>
+    <Name>Holy Cow P/G (PS 179)</Name>
+    <Location>HRC HDNG BLVD/ 199 STREET</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7421</lat>
+    <lon>-73.7785</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q001</Prop_ID>
+    <Name>HORATIO P/G</Name>
+    <Location>HORATIO PKWY &amp; 228 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q105</Prop_ID>
+    <Name>HOWARD VON DOHLEN P/G</Name>
+    <Location>ARCHER AVE, 138 PL, 91 AVE, 138</Location>
+    <Num_of_Courts>3</Num_of_Courts>
+    <lat>40.6991</lat>
+    <lon>-73.813</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q066F</Prop_ID>
+    <Name>HOYT PLAYGROUND</Name>
+    <Location>HOYT AVE, 29 TO 31 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7714</lat>
+    <lon>-73.9169</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q301</Prop_ID>
+    <Name>JAMAICA PLAYGROUND(PS 40)</Name>
+    <Location>109 ST/BRNKRHOFF AVE/106/UNION H</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6929</lat>
+    <lon>-73.7908</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q285</Prop_ID>
+    <Name>JOHN ADAMS P/G</Name>
+    <Location>133 AVE, 101 TO 103 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6774</lat>
+    <lon>-73.8356</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q391</Prop_ID>
+    <Name>JOSEPH AUSTIN P/G</Name>
+    <Location>GRND CENT PKWY BET 164 PL &amp; 168</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7161</lat>
+    <lon>-73.8015</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q094</Prop_ID>
+    <Name>JOSEPH P. ADDABBO PLAYGROUND</Name>
+    <Location>BET 81-82 STS, N CONDUIT AVE</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6729</lat>
+    <lon>-73.8542</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q122</Prop_ID>
+    <Name>JUNCTION P/G</Name>
+    <Location>96 ST, 34 AVE, JUNCTION BLVD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7545</lat>
+    <lon>-73.8719</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q102</Prop_ID>
+    <Name>JUNIPER NORTH PLGD (TENNIS)</Name>
+    <Location>77 PL, JUNIPER BLVD</Location>
+    <Num_of_Courts>10</Num_of_Courts>
+    <lat>40.7211</lat>
+    <lon>-73.8772</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q121</Prop_ID>
+    <Name>K.L.WILLIAMS (P/G, TENNIS)</Name>
+    <Location>LIBERTY AVE, 172-173 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7042</lat>
+    <lon>-73.7851</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q300A</Prop_ID>
+    <Name>KISSENA CORRIDOR PK</Name>
+    <Location>PCK/UNDRHL AVES/UTOPIA PKY/HRC H</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7448</lat>
+    <lon>-73.787</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q300</Prop_ID>
+    <Name>KISSENA PK-FOUR WINDS PLAYGROUND</Name>
+    <Location>BOOTH MEMORIAL AVE &amp; 160 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q407</Prop_ID>
+    <Name>Lannett Playground</Name>
+    <Location>B 8 ST, LANETT AVE, B 9 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5995</lat>
+    <lon>-73.744</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q108</Prop_ID>
+    <Name>LAURELTON P/G</Name>
+    <Location>BROOKVILLE BLVD, S/O 136 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6692</lat>
+    <lon>-73.7372</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q096E</Prop_ID>
+    <Name>LEFFERTS P/G</Name>
+    <Location>N CONDUIT AVE, 120-122 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6656</lat>
+    <lon>-73.8206</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q330</Prop_ID>
+    <Name>LOCUST MANOR P/G(PS 15)</Name>
+    <Location>192 ST, S/S 121 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6857</lat>
+    <lon>-73.7562</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q128</Prop_ID>
+    <Name>LONDON PLANETREE P/G</Name>
+    <Location>88-89 STS, ATLANTIC TO 95 AVES</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6866</lat>
+    <lon>-73.8536</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q415</Prop_ID>
+    <Name>LOUIS ARMSTRONG P/G(PS 143)</Name>
+    <Location>37 AVE BET 112 &amp; 113 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7549</lat>
+    <lon>-73.8558</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q369</Prop_ID>
+    <Name>LOUIS PASTEUR PARK(JHS 67)</Name>
+    <Location>52 AVE BET 248 ST &amp; MARATHON PKW</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7619</lat>
+    <lon>-73.7351</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q020</Prop_ID>
+    <Name>HIGHLAND PARK</Name>
+    <Location>JAMAICA AVE &amp; ELTON ST</Location>
+    <Num_of_Courts>10</Num_of_Courts>
+    <lat>40.6842</lat>
+    <lon>-73.8881</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q009</Prop_ID>
+    <Name>MACNEIL PLAYGROUND</Name>
+    <Location>POPPENHUSEN AVE OPP 119 ST</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q305</Prop_ID>
+    <Name>MAFERA PARK</Name>
+    <Location>65 PL &amp; 68 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.706</lat>
+    <lon>-73.891</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q220G</Prop_ID>
+    <Name>MANTON P/G</Name>
+    <Location>VAN WYCK EXWY/84 RD/MANTON ST/83</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7123</lat>
+    <lon>-73.8213</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q211</Prop_ID>
+    <Name>MAPLE PLAYGROUND</Name>
+    <Location>KISSENA BLVD &amp; MAPLE AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7556</lat>
+    <lon>-73.8263</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q127</Prop_ID>
+    <Name>MARCONI PARK</Name>
+    <Location>109 AVE, 157 ST, 108 AVE, 155 ST</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6942</lat>
+    <lon>-73.7953</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q364</Prop_ID>
+    <Name>MARIE CURIE PARK(JHS 158)</Name>
+    <Location>46 AVE &amp; 211 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.757</lat>
+    <lon>-73.771</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q337</Prop_ID>
+    <Name>MAURICE A FITZGERALD P/G</Name>
+    <Location>ATLANTIC AVE BET 104/106 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6903</lat>
+    <lon>-73.8402</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q086</Prop_ID>
+    <Name>Memorial Field of Flushing/Flushing Fields</Name>
+    <Location>BAYSIDE AVE 25 AVE, 149/150 ST</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q096C</Prop_ID>
+    <Name>MENTONE PLAYGROUND</Name>
+    <Location>SOUTHERN PKWY, 231-234 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6663</lat>
+    <lon>-73.742</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q402</Prop_ID>
+    <Name>MERRICK PLAYGROUND(IS 8)</Name>
+    <Location>167 ST &amp; 109 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6964</lat>
+    <lon>-73.786</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q007</Prop_ID>
+    <Name>MICHAELIS-BAYSWATER PK</Name>
+    <Location>BCH CHNL DR/B 32 ST/DWIGHT- NORTO</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.5995</lat>
+    <lon>-73.7673</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q101</Prop_ID>
+    <Name>MIDDLE VILLAGE P/G</Name>
+    <Location>68 RD, 79 ST, 69 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q396</Prop_ID>
+    <Name>MONTBELLIER PARK</Name>
+    <Location>SPRNGFLD BLVD BET ESTGATE PLAZA</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6738</lat>
+    <lon>-73.7564</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q366</Prop_ID>
+    <Name>MOSER PARK</Name>
+    <Location>W/S 77 ST, N/S 25 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7631</lat>
+    <lon>-73.8924</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q437</Prop_ID>
+    <Name>MURRAY HILL P/G(PS 22)</Name>
+    <Location>156-MURRAY ST, BARCLAY-SANFORD A</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7617</lat>
+    <lon>-73.8115</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q141</Prop_ID>
+    <Name>MURRAY PLAYGROUND</Name>
+    <Location>21 ST, 45 AVE, 11 ST, 45 RD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7473</lat>
+    <lon>-73.9497</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q210</Prop_ID>
+    <Name>NAUTILUS P/G</Name>
+    <Location>MERRICK BLVD, 120 AVE, BAISLEY B</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6847</lat>
+    <lon>-73.7704</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q426</Prop_ID>
+    <Name>NORTH ROCHDALE P/G(PS 30)</Name>
+    <Location>BAISLEY BLVD &amp; BEDELL ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6799</lat>
+    <lon>-73.7754</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q363</Prop_ID>
+    <Name>NORTHERN P/G(PS 149)</Name>
+    <Location>NORTHERN BLVD &amp; 93 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7563</lat>
+    <lon>-73.8749</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q400</Prop_ID>
+    <Name>OAKLAND GARDENS(PS 203)</Name>
+    <Location>E/S SPRINGFIELD BLVD &amp; 54 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7537</lat>
+    <lon>-73.7595</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q430</Prop_ID>
+    <Name>P.S. 195 Playground/Sunrise Playground</Name>
+    <Location>149 RD/WELLER LANE/149 AVE/253 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6529</lat>
+    <lon>-73.7365</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q306</Prop_ID>
+    <Name>PAINTER'S P/G(PS 174)</Name>
+    <Location>ALDERTON ST/DIFTERLE-ELWELL CRES</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7206</lat>
+    <lon>-73.8599</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q298</Prop_ID>
+    <Name>PAUL RAIMONDA P/G</Name>
+    <Location>47 RO 48 STS, 20 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7729</lat>
+    <lon>-73.897</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q351</Prop_ID>
+    <Name>PETERS FIELD</Name>
+    <Location>LIBERTY AVE, 183 PL, 104 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7064</lat>
+    <lon>-73.7751</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q362</Prop_ID>
+    <Name>PLAYGROUND NINETY (PS 148 P/G)</Name>
+    <Location>NORTHERN BLVD &amp; 90 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7574</lat>
+    <lon>-73.8788</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q334</Prop_ID>
+    <Name>PLAYGROUND TWENTY-ONE(PS 184)</Name>
+    <Location>163-166 STS, 21 AVE - 21 RD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7784</lat>
+    <lon>-73.7984</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q118</Prop_ID>
+    <Name>PO NICHOLAS DEMUTIIS PK(OZONE)</Name>
+    <Location>LIBERTY AVE, 101-102 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6821</lat>
+    <lon>-73.8392</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q092</Prop_ID>
+    <Name>POL. OFC EDWARD BYRNE PARK</Name>
+    <Location>N CONDUIT AVE/134-135 ST/135 AV</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6672</lat>
+    <lon>-73.8067</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q329</Prop_ID>
+    <Name>POMONOK P/G(PS 201)</Name>
+    <Location>KISSENA BLVD, 65 AVE</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.7358</lat>
+    <lon>-73.8144</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q327</Prop_ID>
+    <Name>PS 186 P/G(CASTLEWOOD SCHOOL)</Name>
+    <Location>LITTLE NECK PKWY &amp; 72 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7495</lat>
+    <lon>-73.7228</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q104</Prop_ID>
+    <Name>QUEENSBRIDGE "BABY" PARK</Name>
+    <Location>VERNON BLVD, 21 ST, BRIDGE PLAZA S</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q300</Prop_ID>
+    <Name>RACHEL CARSON P/G</Name>
+    <Location>COLDEN ST &amp; GERANIUM AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q333</Prop_ID>
+    <Name>RAVENSWOOD P/G</Name>
+    <Location>35 AVE, 21 ST, 34 AVE</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.7627</lat>
+    <lon>-73.9345</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q345</Prop_ID>
+    <Name>REDFERN PLAYGROUND</Name>
+    <Location>B 12 ST &amp; REDFERN AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6113</lat>
+    <lon>-73.7489</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q423</Prop_ID>
+    <Name>REIFF PLAYGROUND</Name>
+    <Location>59 DRIVE/63 STREET/FRESH POND RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7188</lat>
+    <lon>-73.9015</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q413</Prop_ID>
+    <Name>ROCHDALE PARK(JHS 72)</Name>
+    <Location>MERRICK BLVD, 134 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q371</Prop_ID>
+    <Name>ROCKAWAY COMMUNITY PK</Name>
+    <Location>CONCH/SMRVLE-NORTON BASINS/ALMED</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5983</lat>
+    <lon>-73.7854</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q414</Prop_ID>
+    <Name>ROCKET PARK (JHS 202)(GODDARD)</Name>
+    <Location>N CONDUIT AVE, ARION RD, 149 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6706</lat>
+    <lon>-73.8464</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q398</Prop_ID>
+    <Name>Rosemary's Playground</Name>
+    <Location>WOODWARD/WOODBINE/FAIRVIEW/MADISON</Location>
+    <Num_of_Courts>0</Num_of_Courts>
+    <lat>40.7045</lat>
+    <lon>-73.9038</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q023</Prop_ID>
+    <Name>RUFUS KING PARK</Name>
+    <Location>JAMAICA AVE, 153 ST, 89 AVE, 150 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7045</lat>
+    <lon>-73.8034</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q335</Prop_ID>
+    <Name>RUSSELL SAGE P/G(JHS 190)</Name>
+    <Location>68 AVE/BOOTH TO AUSTIN STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7238</lat>
+    <lon>-73.8519</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q293</Prop_ID>
+    <Name>SAUL WEPRIN P/G(PS 162 P/G)</Name>
+    <Location>201-202 STS BET 53 &amp; 56 AVES</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7477</lat>
+    <lon>-73.7766</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q422</Prop_ID>
+    <Name>SEASIDE PLAYGROUND(PS 225)</Name>
+    <Location>ST MARKS AVE &amp; B 109 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5809</lat>
+    <lon>-73.8306</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q021C</Prop_ID>
+    <Name>SEVEN GABLES P/G (IS 74)</Name>
+    <Location>S/O LI EXWY, 21O &amp; OCEANIA STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7441</lat>
+    <lon>-73.7661</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q354</Prop_ID>
+    <Name>SEVENTY-FIVE P/G(PS 154)</Name>
+    <Location>75 AVE, 160-162 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7263</lat>
+    <lon>-73.8081</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q163</Prop_ID>
+    <Name>SHOREFRONT PKWAY-BCH 74</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q163</Prop_ID>
+    <Name>SHOREFRONT PKWAY-BCH 76</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q163</Prop_ID>
+    <Name>SHOREFRONT PKWAY-BCH 81</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q163</Prop_ID>
+    <Name>SHOREFRONT PKWAY-BCH 82</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q129</Prop_ID>
+    <Name>SMOKEY OVAL</Name>
+    <Location>95 AVE/127 ST/ATLANTIC AVE/125 ST</Location>
+    <Num_of_Courts>8</Num_of_Courts>
+    <lat>40.6948</lat>
+    <lon>-73.8209</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q015</Prop_ID>
+    <Name>SOBELSOHN PLAYGROUND</Name>
+    <Location>PARK LANE S, FOREST PK. DRIVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q131</Prop_ID>
+    <Name>SOUTH MAURICE SENIOR PLAYGROUND</Name>
+    <Location>CENTER OF PARK, LIE SERVICE RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7269</lat>
+    <lon>-73.9034</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q427</Prop_ID>
+    <Name>SOUTH ROCHDALE P/G(PS 80)</Name>
+    <Location>133 ST &amp; 137 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6737</lat>
+    <lon>-73.7688</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q429</Prop_ID>
+    <Name>SPIRIT P/G(PS 76)</Name>
+    <Location>36 AVE BET 9 &amp; 10 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7615</lat>
+    <lon>-73.9416</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q406</Prop_ID>
+    <Name>SPRINGFIELD PARK NORTH-JHS 231</Name>
+    <Location>SPRINGFIELD BLVD, 145 RD,</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.664</lat>
+    <lon>-73.7595</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q174A</Prop_ID>
+    <Name>ST MICHAELS PK</Name>
+    <Location>BKLYN-QUEENS EXPY FROM 30 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7585</lat>
+    <lon>-73.9</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q291</Prop_ID>
+    <Name>STARR PLAYGROUND</Name>
+    <Location>ONDERDONK/WILLOUGHBY AVES/STARR ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.71</lat>
+    <lon>-73.9179</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q395</Prop_ID>
+    <Name>STEINWAY P/G(JHS 141)</Name>
+    <Location>20 RD, 20 AVE, 37-38 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7767</lat>
+    <lon>-73.9037</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q317</Prop_ID>
+    <Name>TALL OAK PLAYGROUND(PS 46)</Name>
+    <Location>64 AVE, 218-219 STS</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7457</lat>
+    <lon>-73.7579</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q349</Prop_ID>
+    <Name>TELEPHONE P/G(PS 205)</Name>
+    <Location>BELL BLVD, 75 AVE &amp; 217 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7385</lat>
+    <lon>-73.7569</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q044</Prop_ID>
+    <Name>THOMSON HILL P/G</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7414</lat>
+    <lon>-73.9224</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q340</Prop_ID>
+    <Name>TORSNEY PLAYGROUND</Name>
+    <Location>SKILLMAN AVE &amp; 43 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7477</lat>
+    <lon>-73.9211</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q303</Prop_ID>
+    <Name>TRAVERS PARK</Name>
+    <Location>34 AVE, 77-78 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7542</lat>
+    <lon>-73.8896</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q066A</Prop_ID>
+    <Name>TRIBOROUGH BRIDGE P/G A</Name>
+    <Location>HOYT AVE, 19 TO 21 STS</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q066D</Prop_ID>
+    <Name>TRIBOROUGH BRIDGE P/G D</Name>
+    <Location>HOYT AVE, 24 ST TO CRESCENT ST</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q294</Prop_ID>
+    <Name>UTOPIA P/G</Name>
+    <Location>73 AVE, JEWEL AVE, UTOPIA PKWY</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7304</lat>
+    <lon>-73.7927</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q321</Prop_ID>
+    <Name>VAN ALST P/G(PS 171)</Name>
+    <Location>29 TO 30 AVES, 21 ST</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7706</lat>
+    <lon>-73.9278</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q015</Prop_ID>
+    <Name>VICTORY FIELD</Name>
+    <Location>WOODHAVEN BLVD/MYRTLE AVE/PARK DR</Location>
+    <Num_of_Courts>13</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q320</Prop_ID>
+    <Name>VLEIGH P/G(PS 165)</Name>
+    <Location>70 RD/71 AVE/150 ST/KISSENA BLVD</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7296</lat>
+    <lon>-73.8173</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q421</Prop_ID>
+    <Name>WALTER WARD PLAYGROUND(PS 207)</Name>
+    <Location>89 ST &amp; 160 AVE</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6574</lat>
+    <lon>-73.8435</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q082</Prop_ID>
+    <Name>WAYANDA PARK(PS 34)</Name>
+    <Location>HOLLIS AVE &amp; ROBARD LANE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7112</lat>
+    <lon>-73.7384</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q022</Prop_ID>
+    <Name>WEEPING BEECH/ CARMAN GREEN</Name>
+    <Location>37 AV/PARSONS BLVD/BOWNE STREET</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.7637</lat>
+    <lon>-73.8248</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q266</Prop_ID>
+    <Name>WESTBOURNE PLAYGROUND(PS 104)</Name>
+    <Location>MOTT &amp; WESTBOURN AVES, B 25 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.608</lat>
+    <lon>-73.7644</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q001</Prop_ID>
+    <Name>WILD FLOWER</Name>
+    <Location>MEADOW GRAND CENTRAL PKWY NR 76 AVE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q375</Prop_ID>
+    <Name>WILLETS POINT P/G(PS 209)</Name>
+    <Location>166 ST BET 16 AVE &amp; 16 RD</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q348</Prop_ID>
+    <Name>WILLOW LAKE P/G(PS 196)</Name>
+    <Location>G C PKWY BET 71-72 AVES</Location>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>Q031</Prop_ID>
+    <Name>WINDMULLER PK</Name>
+    <Location>52 ST/WDSDE AV/39RD/39DR</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7477</lat>
+    <lon>-73.9108</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q332</Prop_ID>
+    <Name>WOODTREE P/G</Name>
+    <Location>20 AVE, 37 ST, 38 ST</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.7779</lat>
+    <lon>-73.9023</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q099</Prop_ID>
+    <Name>WORLD'S FAIR P/G</Name>
+    <Location>GRAND CENTRAL PKWY, 62 DR, LIE</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>R087</Prop_ID>
+    <Name>Dongan Playground</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5825</lat>
+    <lon>-74.0894</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R090</Prop_ID>
+    <Name>Double Nickel Playground (P.S. 55)</Name>
+    <Location>Koch Boulevard and Preston Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5367</lat>
+    <lon>-74.1631</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R067</Prop_ID>
+    <Name>General Douglas McArthur Park</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.586</lat>
+    <lon>-74.1004</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R068</Prop_ID>
+    <Name>Grandview Playground</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6313</lat>
+    <lon>-74.1649</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R025</Prop_ID>
+    <Name>Mahoney Playground</Name>
+    <Location/>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6431</lat>
+    <lon>-74.0856</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R076</Prop_ID>
+    <Name>Markham Playground (P.S. 51)</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6243</lat>
+    <lon>-74.1456</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R034</Prop_ID>
+    <Name>McDonald Playground</Name>
+    <Location/>
+    <Num_of_Courts>1</Num_of_Courts>
+    <lat>40.6295</lat>
+    <lon>-74.1156</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R046</Prop_ID>
+    <Name>Midland Beach (Playground #1)</Name>
+    <Location>Father Capodanno Boulevard &amp; Jefferson Avenue</Location>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>R046</Prop_ID>
+    <Name>Midland Beach (Playground #2)</Name>
+    <Location>Father Capodanno Boulevard &amp; Jefferson Avenue</Location>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>R038A</Prop_ID>
+    <Name>Midland Field (J.H. 2)</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.577</lat>
+    <lon>-74.099</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R073</Prop_ID>
+    <Name>Naples Playground (P.S. 48)</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6026</lat>
+    <lon>-74.0906</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R063</Prop_ID>
+    <Name>Oldtown Playground (P.S. 46)</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.5951</lat>
+    <lon>-74.0814</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R105</Prop_ID>
+    <Name>Prall Playground (I.S. 27)</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat/>
+    <lon/>
+  </facility>
+  <facility>
+    <Prop_ID>R045</Prop_ID>
+    <Name>Schmul Park</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.5902</lat>
+    <lon>-74.188</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R061</Prop_ID>
+    <Name>Stapleton Playground (P.S. 14)</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6227</lat>
+    <lon>-74.0799</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R069</Prop_ID>
+    <Name>Terrace Park (P.S. 35)</Name>
+    <Location/>
+    <Num_of_Courts>2</Num_of_Courts>
+    <lat>40.6138</lat>
+    <lon>-74.0989</lon>
+  </facility>
+  <facility>
+    <Prop_ID>R064</Prop_ID>
+    <Name>Todt Hill Houses Playground</Name>
+    <Location/>
+    <Num_of_Courts>4</Num_of_Courts>
+    <lat>40.6089</lat>
+    <lon>-74.1193</lon>
+  </facility>
+  <facility>
+    <Prop_ID>Q448</Prop_ID>
+    <Name>Roy Wilkins Recreation Center</Name>
+    <Location>Baisley &amp; Merrick boulevards, 115 Avenue, 177 Street</Location>
+    <Num_of_Courts/>
+    <lat>40.6853</lat>
+    <lon>-73.77</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B244</Prop_ID>
+    <Name>McDonald Playground</Name>
+    <Location>McDonald Avenue</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6003</lat>
+    <lon>-73.9724</lon>
+  </facility>
+  <facility>
+    <Prop_ID>X210</Prop_ID>
+    <Name>Governor Smith Playground</Name>
+    <Location>E. 152nd Street between Morris Avenue and Courtlandt Avenue</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.8193</lat>
+    <lon>-73.9202</lon>
+  </facility>
+  <facility>
+    <Prop_ID>B431</Prop_ID>
+    <Name>Brooklyn Bridge Park</Name>
+    <Location>Pier 2</Location>
+    <Num_of_Courts>6</Num_of_Courts>
+    <lat>40.6995</lat>
+    <lon>-73.9979</lon>
+  </facility>
+</handball>
